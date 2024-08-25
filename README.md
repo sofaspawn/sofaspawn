@@ -1,4 +1,4 @@
-## spawned on the sofa 👋
+## spawned on the sofa 🛋️
 
 - 🔭 I’m currently working on [gophrics](github.com/sofaspawn/gophrics)
 - 👯 I’m looking to collaborate on gophrics, if possible
