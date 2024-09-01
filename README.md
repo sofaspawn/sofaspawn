@@ -1,4 +1,12 @@
 ## sofa is the spawn point 🛋️
 
-- 🔭 currently working on [animations in TS](https://github.com/sofaspawn/cool-maths-in-TS)
-- ⚡ Fun fact: im a bit "not good in the head"
+- wait a sec... getting better...
+
+## things I wanna do next:
+
+- personal website (to learn web slop)
+- music visualizer
+- local search engine
+- draw and manipulate mathematical graphs(somewhat like desmos)
+
+### currently doing - 🔭 [dunno yet]
