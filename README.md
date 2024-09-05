@@ -9,4 +9,4 @@
 - local search engine
 - draw and manipulate mathematical graphs(somewhat like desmos)
 
-### currently doing - 🔭 [dunno yet]
+### currently doing - 🔭 web slop
