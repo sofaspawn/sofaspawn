@@ -9,4 +9,4 @@
 - local search engine
 - draw and manipulate mathematical graphs(somewhat like desmos)
 
-### currently doing - 🔭 web slop
+### currently doing - 🔭 raylib woohooo!!!
