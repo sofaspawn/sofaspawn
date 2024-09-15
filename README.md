@@ -1,5 +1,4 @@
 ```
 thanks for dropping by. feel free to look around (´◡`)
-currently working on:
+currently working on sofaspawn/srchngin
 ```
-[SrchNgin](https://github.com/sofaspawn/srchngin)
