@@ -1,5 +1,7 @@
-hey 👋 feel free to look around :)
+i just do stuff.
+
 ---
+
 ## 📫 Connect with Me
 Feel free to check out my work and connect:
 - **GitHub**: [sofaspawn](https://github.com/sofaspawn)  
@@ -15,5 +17,3 @@ Let’s build something amazing together!
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sofaspawn&layout=compact&theme=radical)
 
 ---
-
-Thanks for stopping by! 🌟
