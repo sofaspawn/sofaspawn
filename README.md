@@ -1,4 +1,4 @@
-i just do stuff.
+I Just Do Stuff.
 
 ---
 
