@@ -1,4 +1,4 @@
-<h2 align="center"><strong>I Do Stuff.</strong></h2>
+<h2 align="center"><strong>i do stuff.</strong></h2>
 
 <p align="center">
   <strong>Contact:</strong> 
